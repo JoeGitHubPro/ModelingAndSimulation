@@ -1,0 +1,15 @@
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\bin\Debug\net7.0\ModelingAndSimulation.exe
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\bin\Debug\net7.0\ModelingAndSimulation.deps.json
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\bin\Debug\net7.0\ModelingAndSimulation.runtimeconfig.json
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\bin\Debug\net7.0\ModelingAndSimulation.dll
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\bin\Debug\net7.0\ModelingAndSimulation.pdb
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.csproj.AssemblyReference.cache
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.AssemblyInfoInputs.cache
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.AssemblyInfo.cs
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.csproj.CoreCompileInputs.cache
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.dll
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\refint\ModelingAndSimulation.dll
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.pdb
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ModelingAndSimulation.genruntimeconfig.cache
+E:\Windows\Faculty\Modeling And Simulation\ModelingAndSimulation\ModelingAndSimulation\obj\Debug\net7.0\ref\ModelingAndSimulation.dll
