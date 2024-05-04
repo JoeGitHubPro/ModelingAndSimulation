@@ -43,4 +43,4 @@ https://github.com/JoeGitHubPro/ModelingAndSimulationGUI
   <p>C# , WPF , OOP , DS&A.</p>
 
   <h2>Repository</h2>
-  <p>Find the repository for this project on GitHub: <a href="https://github.com/JoeGitHubPro/ModelingAndSimulationGUI.git">Modeling And SimulationG</a></p>
+  <p>Find the repository for this project on GitHub: <a href="https://github.com/JoeGitHubPro/ModelingAndSimulation.git">Modeling And SimulationG</a></p>
