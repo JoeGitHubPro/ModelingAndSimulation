@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>bin\Debug\net7.0-windows\analysis.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image.png" />
+    <None Remove="شعار_جامعة_قناة_السويس.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net7.0-windows\analysis.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModelingAndSimulation\ModelingAndSimulation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image.png" />
+    <Resource Include="شعار_جامعة_قناة_السويس.png" />
+  </ItemGroup>
+
+</Project>
